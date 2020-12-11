@@ -1,1 +1,1 @@
-print(54)
+print('My first git-repo')
